@@ -1,3 +1,5 @@
+attempting a git push ... exciting times
+
 # Hello World
 
 This is a text file that we are going to add to Git.
